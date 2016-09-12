@@ -1,4 +1,4 @@
-# test-js
+# turtle-canvas
 
 A Quil sketch designed to draw colored lines.
 
