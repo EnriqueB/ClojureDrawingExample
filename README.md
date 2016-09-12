@@ -1,6 +1,8 @@
 # test-js
 
-A Quil sketch designed to ... well, that part is up to you.
+A Quil sketch designed to draw colored lines.
+
+Press the left mouse button to draw, up and down arrow keys to change the width of the line 
 
 ## Usage
 
